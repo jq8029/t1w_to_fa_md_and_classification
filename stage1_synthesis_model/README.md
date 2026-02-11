@@ -15,8 +15,9 @@ python inference.py
 ## Notes
 Please update file and path options in 'config.py' before execution. 
 
-The pretrained model weights (.pt) are provided separately due to file size constraints.
-Please download the file from the link below and place it in this folder before execution.
+##  Download Pretrained Model Weights (.pt)
+The pretrained model weights (.pt) are provided separately due to file size constraints. Please download the file from the link below and place it in this folder before execution.
+
 https://drive.google.com/file/d/12t9td1OhX6CHC0bWNmU55a3DJV1ifCGE/view?usp=sharing
 
 ## Preparing Outputs for Stage 2
